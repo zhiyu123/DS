@@ -1,0 +1,5 @@
+﻿  demo.c
+  SqList.c
+D:\VS2019 project\DS\静态顺序表\SqList.c(6,8): warning C4013: “memset”未定义；假设外部返回 int
+  正在生成代码...
+  SqList.vcxproj -> D:\VS2019 project\DS\静态顺序表\Debug\SqList.exe

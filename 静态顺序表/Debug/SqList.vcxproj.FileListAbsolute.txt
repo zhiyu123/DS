@@ -1,0 +1,4 @@
+D:\VS2019 project\DS\SqList\Debug\SqList.exe
+D:\VS2019 project\DS\SqList\Debug\SqList.pdb
+D:\VS2019 project\DS\静态顺序表\Debug\SqList.exe
+D:\VS2019 project\DS\静态顺序表\Debug\SqList.pdb
