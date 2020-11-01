@@ -1,0 +1,2 @@
+D:\VS2019 project\DS\动态顺序表\Debug\动态顺序表.exe
+D:\VS2019 project\DS\动态顺序表\Debug\动态顺序表.pdb
