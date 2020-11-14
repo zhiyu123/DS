@@ -3,6 +3,7 @@
 
 #include<iostream>
 #include<stack>
+#include<queue>
 using namespace std;
 
 typedef char elemtype;
@@ -19,6 +20,7 @@ public:
 void FirstPrint(BiTNode* root);		//先序遍历
 void MiddlePrint(BiTNode* root);	//中序遍历
 void FinallyPrint(BiTNode* root);	//后序遍历
+void FloorPrint(BiTNode* root);		//层序遍历
 void LeafCount(BiTNode* root,unsigned int &count);		//求叶子结点的数目
 int TreeDepth(BiTNode* root);		//求树的高度
 BiTNode* CopyTree(BiTNode* root);		//拷贝二叉树

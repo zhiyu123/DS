@@ -31,6 +31,10 @@ int main()
 	FinallyPrint(&BiT_A);
 	cout << endl;
 
+	cout << "层序遍历：" << endl;
+	FloorPrint(&BiT_A);
+	cout << endl;
+
 	unsigned int count = 0;
 	LeafCount(&BiT_A, count);
 	cout << "叶子结点的数量为：" << count << endl;
@@ -49,6 +53,10 @@ int main()
 
 	cout << "后序遍历：" << endl;
 	FinallyPrint(ptr);
+	cout << endl;
+
+	cout << "层序遍历：" << endl;
+	FloorPrint(ptr);
 	cout << endl;
 
 	cout << "非递归的中序遍历：" << endl;

@@ -40,6 +40,31 @@ void FinallyPrint(BiTNode* root)		//后序遍历
 	cout << root->m_data << " ";
 }
 
+void FloorPrint(BiTNode* root)	//层序遍历_队列实现
+{
+	queue<BiTNode*> q;
+	if (root != NULL)
+	{
+		q.push(root);   //根节点进队列
+	}
+	while (q.empty() == false)  //队列不为空判断
+	{
+		cout << q.front()->m_data << " ";
+
+		if (q.front()->m_lchild != NULL)   //如果有左孩子，leftChild入队列
+		{
+			q.push(q.front()->m_lchild);
+		}
+
+		if (q.front()->m_rchild != NULL)   //如果有右孩子，rightChild入队列
+		{
+			q.push(q.front()->m_rchild);
+		}
+
+		q.pop();  //已经遍历过的节点出队列
+	}
+}
+
 void LeafCount(BiTNode* root, unsigned int& count)		//计算叶子结点的数量
 {
 	if (root == NULL)

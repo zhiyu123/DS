@@ -1,0 +1,3 @@
+﻿  demo.cpp
+D:\VS2019 project\DS\栈解决括号匹配问题\demo.cpp(9,20): warning C4018: “<”: 有符号/无符号不匹配
+  栈解决括号匹配问题.vcxproj -> D:\VS2019 project\DS\栈解决括号匹配问题\Debug\栈解决括号匹配问题.exe

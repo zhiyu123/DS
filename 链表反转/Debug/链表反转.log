@@ -1,0 +1,6 @@
+﻿  demo.cpp
+D:\VS2019 project\DS\链表反转\demo.cpp(81,7): warning C4101: “N4”: 未引用的局部变量
+D:\VS2019 project\DS\链表反转\demo.cpp(78,7): warning C4101: “N1”: 未引用的局部变量
+D:\VS2019 project\DS\链表反转\demo.cpp(80,7): warning C4101: “N3”: 未引用的局部变量
+D:\VS2019 project\DS\链表反转\demo.cpp(79,7): warning C4101: “N2”: 未引用的局部变量
+  链表反转.vcxproj -> D:\VS2019 project\DS\链表反转\Debug\链表反转.exe

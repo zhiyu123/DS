@@ -1,0 +1,2 @@
+D:\VS2019 project\DS\栈解决逆波兰表达式\Debug\栈解决逆波兰表达式.exe
+D:\VS2019 project\DS\栈解决逆波兰表达式\Debug\栈解决逆波兰表达式.pdb

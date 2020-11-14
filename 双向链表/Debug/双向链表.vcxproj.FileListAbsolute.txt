@@ -1,0 +1,2 @@
+D:\VS2019 project\DS\双向链表\Debug\双向链表.exe
+D:\VS2019 project\DS\双向链表\Debug\双向链表.pdb
